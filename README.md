@@ -38,5 +38,11 @@
       
       Once the countdown completes, a completion message will be shown.
 
+📦 How to Run Locally
+
+        git clone https://github.com/venkateshrajamoor/Countdown-Timer
+        cd Countdown-Timer
+        open index.html in browser
+
 🧑‍💻 Author
     This project was developed and submitted as part of my internship with UnifiedMentor.
