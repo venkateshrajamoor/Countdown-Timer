@@ -39,4 +39,4 @@
       Once the countdown completes, a completion message will be shown.
 
 🧑‍💻 Author
-    This project was developed and submitted to UnifiedMentor.
+    This project was developed and submitted as part of my internship with UnifiedMentor.
